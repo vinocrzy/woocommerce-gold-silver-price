@@ -1,0 +1,10 @@
+{
+  "name": "woocommerce-gold-silver-price",
+  "version": "1.0.0",
+  "description": "This plugin enables easily changing prices of Gold and Silver,Platinam products, based on their weigth/purity and the Gold and Silver,Platinam value.",
+  "main": "woocommerce-gold-silver-price.php",
+  "repository": "https://github.com/vinocrzy/woocommerce-gold-silver-price.git",
+  "author": "vinocrzy <vinoth.vinothkanna.kanna2@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

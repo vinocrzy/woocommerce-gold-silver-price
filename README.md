@@ -13,8 +13,7 @@
 
 ### Add Gold and Silver and Platinam Price to WooCommerce
 
-This plugin enables easily changing prices of Gold and Silver,Platinam products, based on
-their weigth/purity and the Gold and Silver,Platinam value.
+This plugin enables easily changing prices of Gold and Silver,Platinam products, based on their weigth/purity and the Gold and Silver,Platinam value.
 
 ⚠️ Please notice that WooCommerce must be installed and active.
 
