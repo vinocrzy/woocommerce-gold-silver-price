@@ -2,7 +2,7 @@
 
 <a href="https://vinocrazy.com/" target="_blank">Vino Crazy</a>
 
-⚠️ Adds WooCommerce Gold and Silver and Platinam Price  extension to WooCommerce plugin, tested up to WooCommerce 2.1.5
+:warning: Adds WooCommerce Gold and Silver and Platinam Price  extension to WooCommerce plugin, tested up to WooCommerce 2.1.5
 
 ## Pre Install
 
@@ -15,7 +15,7 @@
 
 This plugin enables easily changing prices of Gold and Silver,Platinam products, based on their weigth/purity and the Gold and Silver,Platinam value.
 
-⚠️ Please notice that WooCommerce must be installed and active.
+:warning: Please notice that WooCommerce must be installed and active.
 
 ## Quick Installation ##
 
